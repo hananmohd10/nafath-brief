@@ -3,7 +3,7 @@ Track: <one of: Software | AI | Mobile | Networking | Cybersecurity | Data>
 
 ## Overview
 
-A government Single Sign-On (SSO) service allows citizens to access multiple services with one account. Software defines authentication, AI helps detect suspicious logins, and mobile security protects device access. Networking secures communication, cybersecurity protects accounts, and data protection safeguards personal information. These fields work together to provide a secure and reliable service. My track focuses on DNS over HTTPS (DoH) and its security and privacy limitations.
+A government Single Sign-On (SSO) service allows citizens to access multiple government services using one account. Software defines how users authenticate, while AI helps detect suspicious login attempts. Mobile security protects access through smartphones and limits applications’ permissions. Networking secures communication between users and online services. Cybersecurity protects accounts from threats such as phishing and unauthorized access. Data protection helps keep citizens’ personal information private and secure. These six areas work together to make government digital services safer, more reliable, and easier to use. Each area has a different role, but weaknesses in one area can affect the security of the entire service. My Networking track focuses on DNS over HTTPS (DoH), examining how it protects DNS queries, improves privacy, and what security limitations remain.
 
 ## Software
 
