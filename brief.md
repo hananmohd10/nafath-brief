@@ -8,9 +8,13 @@ A government Single Sign-On (SSO) service allows citizens to access multiple ser
 ## Software
 
 OAuth 2.0 is an authorization framework that allows applications to access protected resources with the user's permission, without sharing their password. OpenID Connect (OIDC) builds on OAuth 2.0 by adding an authentication layer that verifies the user's identity. Therefore, OAuth 2.0 is designed for delegated access to resources, while OpenID Connect is designed for user login and authentication. They can work together in a secure Single Sign-On (SSO) service.
+
 Resource: OpenID Connect vs OAuth2: The Differences and How to Choose - https://supertokens.com/blog/openid-connect-vs-oauth2
 
 ## AI
+Before launching an AI model to detect suspicious logins, the authority should identify and assess risks such as harmful bias, privacy loss, security threats, and unreliable results. The NIST AI Risk Management Framework provides four functions: Govern, Map, Measure, and Manage. These help organizations establish accountability, identify potential harms, evaluate risks, and apply mitigations. The model should also be tested and monitored to help ensure secure and reliable operation.
+
+Resource: NIST AI Risk Management Framework (AI RMF) Explained: What It Is and How Organizations Use It - https://orca.security/resources/blog/nist-ai-risk-management-framework-ai-rmf/
 
 ## Mobile
 
