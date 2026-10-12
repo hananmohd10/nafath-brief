@@ -43,6 +43,10 @@ Resource: Personal Data Protection - https://www.mtcit.gov.om/sectors/governance
 
 ## Misconception in My Track
 
+A common misconception is that DNS over HTTPS (DoH) provides complete privacy. Although DoH encrypts DNS traffic between the user and the DNS resolver, the resolver may still be able to associate queries with the user. Therefore, DoH improves privacy from network observers but does not guarantee complete anonymity.
+
+Resource: DNS Queries over HTTPS (DoH) - RFC Editor - https://www.rfc-editor.org/rfc/rfc8484.html
+
 ## Open Question
 
 How can a government authority use DNS over HTTPS to protect citizens’ privacy while still detecting malicious websites and cybersecurity threats?
