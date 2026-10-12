@@ -12,11 +12,16 @@ OAuth 2.0 is an authorization framework that allows applications to access prote
 Resource: OpenID Connect vs OAuth2: The Differences and How to Choose - https://supertokens.com/blog/openid-connect-vs-oauth2
 
 ## AI
+
 Before launching an AI model to detect suspicious logins, the authority should identify and assess risks such as harmful bias, privacy loss, security threats, and unreliable results. The NIST AI Risk Management Framework provides four functions: Govern, Map, Measure, and Manage. These help organizations establish accountability, identify potential harms, evaluate risks, and apply mitigations. The model should also be tested and monitored to help ensure secure and reliable operation.
 
 Resource: NIST AI Risk Management Framework (AI RMF) Explained: What It Is and How Organizations Use It - https://orca.security/resources/blog/nist-ai-risk-management-framework-ai-rmf/
 
 ## Mobile
+
+Android limits a login app’s access by isolating it in a sandbox, which restricts access to other apps’ data. Runtime permissions also protect sensitive resources, such as the camera, microphone, and location. The app must request permission when it needs to access a protected resource that requires runtime approval. Users can grant or deny the request, helping them control access to their device data.
+
+Resource: How Android Runtime Permissions Influence Enterprise Mobile Risk - https://www.ninjaone.com/blog/how-android-runtime-permissions-influence-enterprise-mobile-risk/
 
 ## Networking
 
