@@ -44,3 +44,5 @@ Resource: Personal Data Protection - https://www.mtcit.gov.om/sectors/governance
 ## Misconception in My Track
 
 ## Open Question
+
+How can a government authority use DNS over HTTPS to protect citizens’ privacy while still detecting malicious websites and cybersecurity threats?
