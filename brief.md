@@ -31,7 +31,15 @@ Resource: What is DNS over HTTPS (DoH)? - https://www.ssl.com/faqs/what-is-dns-o
 
 ## Cybersecurity
 
+Phishing-resistant authentication prevents fake websites from stealing authentication secrets or reusing login responses. Passkeys and FIDO2 security keys qualify because they verify the genuine website’s domain. Certificate-based authentication can also qualify when implemented with appropriate protections. Passwords, SMS codes, email codes, authenticator-app codes, and push approvals are not considered phishing-resistant because attackers may trick users into sharing or approving them. Strong authentication also requires secure account recovery methods.
+
+Resource: Phishing-resistant MFA: what qualifies and what does not - https://www.openideurope.eu/login-security/phishing-resistant-mfa/
+
 ## Data
+
+Under Oman’s Personal Data Protection Law, the authority must obtain consent before processing citizens’ personal data, unless a legal exception applies. It must explain the purpose of processing, protect data confidentiality and privacy, and implement appropriate technical and procedural safeguards. The authority must also respect individuals’ rights to access, correct, update, or request deletion of their data, where applicable. If a personal data breach occurs, it must notify the relevant parties as required by law.
+
+Resource: Personal Data Protection - https://www.mtcit.gov.om/sectors/governance/personal
 
 ## Misconception in My Track
 
