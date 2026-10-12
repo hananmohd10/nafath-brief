@@ -25,6 +25,10 @@ Resource: How Android Runtime Permissions Influence Enterprise Mobile Risk - htt
 
 ## Networking
 
+DNS over HTTPS (DoH) encrypts DNS queries using HTTPS, helping protect them from being read or altered while travelling across the network. For users of the service, it improves privacy by making it harder for internet service providers and network observers to see which domains they look up. However, DoH does not hide all browsing activity, guarantee protection from malicious websites, or prevent the DoH provider from seeing DNS queries.
+
+Resource: What is DNS over HTTPS (DoH)? - https://www.ssl.com/faqs/what-is-dns-over-https-doh/
+
 ## Cybersecurity
 
 ## Data
